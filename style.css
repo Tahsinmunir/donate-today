@@ -1,0 +1,160 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Top-banar {
+    padding-top: 100px;
+    color: white;
+    text-align: center;
+    background: url("images/donation5.jpg");
+    background-size: cover;
+    height: 625px;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+
+p {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.ancor-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato, red);
+    padding: 10px 25px;
+}
+
+.donate-button {
+    margin-top: 25px;
+}
+
+.second-sec {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.donation-section {
+    display: flex;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.donation-amount {
+    text-align: center;
+    font-weight: 600;
+    background-color: lightgray;
+    border-radius: 5%;
+    margin: 20px;
+    padding: 20px;
+}
+
+#seleted {
+    border: 3px solid tomato;
+    color: tomato;
+}
+
+input {
+    border: none;
+}
+
+.threed-sec {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.card-area {
+    display: flex;
+}
+
+.card-items {
+    height: 300px;
+    padding: 10px 10px;
+    margin: 5px 10px;
+    text-align: justify;
+}
+
+#card-item1 {
+    background-color: antiquewhite;
+}
+
+#card-item2 {
+    background-color: aquamarine;
+}
+
+#card-item3 {
+    background-color: burlywood;
+}
+
+.fourth-sec {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.fifth-sec {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.helf-wedth {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.helf-wedth img {
+    width: 100%;
+}
+
+.para {
+    margin-top: 50px;
+}
+
+.email-area {
+    text-align: center;
+    width: 100%;
+    padding: 50px 25px;
+    background-color: antiquewhite;
+}
+
+#email-input {
+    border: 2px solid;
+    background-color: lightgray;
+}
+
+button {
+    border: none;
+    border-radius: 5%;
+    color: white;
+    background-color: orangered;
+}
+
+.sixth-sec {
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+footer {
+    margin: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#Moto {
+    color: orangered;
+}
